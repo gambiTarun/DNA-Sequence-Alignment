@@ -1,5 +1,5 @@
 # Sequence-Alignment-Problem
-This project aims to find tme and memory efficient ways to solve sequence alignment problem
+This project aims to find tme and memory efficient ways to solve sequence alignment problem by implementing the Hirschberg's Algorithm.
 
 # Introduction
 
