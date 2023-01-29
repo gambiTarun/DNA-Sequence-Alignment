@@ -56,7 +56,7 @@ Cmn + ½ Cmn + ¼ Cmn...... = 2Cmn
 
 That is CPU Tme is double for efficient solution (2Cmn) though asymptotic Tme complexity is O(mn)
 
-**Memory Consump 4 on: -** Memory for basic soluTon requires O(nm) space to find the opTmal soluTon.
+**Memory Consump 4 on: -** Memory for basic solution requires O(nm) space to find the optimal solution.
 Even though we only require the previously filled column to find the minimum penalty, we require enTre
 an array of size nm to backtrack to find the actual string alignment and not just the penalty. The idea of
 saving the alignment as we move forward won’t be helpful as when we are using dynamic programming,
