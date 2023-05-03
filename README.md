@@ -1,4 +1,4 @@
-# Sequence-Alignment-Problem
+# DNA-Sequence-Alignment
 This project aims to find tme and memory efficient ways to solve sequence alignment problem by implementing the [Hirschberg's Algorithm](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm#:~:text=Hirschberg's%20algorithm%20is%20simply%20described,of%20DNA%20and%20protein%20sequences.).
 
 # Introduction
